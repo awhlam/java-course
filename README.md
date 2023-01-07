@@ -1,3 +1,3 @@
-# java-mooc
+# java-course
 
 https://java-programming.mooc.fi/
