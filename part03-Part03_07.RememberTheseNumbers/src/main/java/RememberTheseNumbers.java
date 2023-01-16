@@ -11,6 +11,9 @@ public class RememberTheseNumbers {
         while (true) {
             int luku = Integer.valueOf(scanner.nextLine());
             if (luku == -1) {
+                for(int number : numbers) {
+                    System.out.println(number);
+                }
                 break;
             }
 
